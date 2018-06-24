@@ -84,7 +84,7 @@ Next we are going to discuss our neural network architecture.
 Our convolutional neural network architecture was inspired by NVIDIA's End to End Learning for Self-Driving Cars paper. The main difference between our model and the NVIDIA mode is than we did use MaxPooling layers just after each  Convolutional Layer in order to cut down training time. For more details about our network architecture please refer following figure.
 
 <p align="center">
- <img src="./images/struct_conv.png" height="600">
+ <img src="./images/conv_struct.png" height="1000">
 </p>
 
 ### Training
